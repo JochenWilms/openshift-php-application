@@ -16,6 +16,7 @@
 <div class="box">
 	<h1>PHP application</h1>
 	<h2>Hostname: <?php echo gethostname(); ?></h2>
+	<h3>jochen</h3>
 </div>
 </body>
 </html>
